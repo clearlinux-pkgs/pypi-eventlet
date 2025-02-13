@@ -7,7 +7,7 @@
 #
 Name     : pypi-eventlet
 Version  : 0.36.1
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/1b/df/f441947eef23192c9f179e46868ee8510a6f7b6627b76b88f07692f9c706/eventlet-0.36.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1b/df/f441947eef23192c9f179e46868ee8510a6f7b6627b76b88f07692f9c706/eventlet-0.36.1.tar.gz
 Summary  : Highly concurrent networking library
